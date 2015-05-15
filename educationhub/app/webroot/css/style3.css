@@ -1,0 +1,346 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16.02.2015, 16:45:11
+    Author     : Mr White
+*/
+
+.mylife_img{
+    max-height: 48px;
+}
+.span_delimetr{
+    font-weight: bold;
+    font-size: 15pt;
+    top: 9px;
+}
+.span_menu{
+    font-size: 20pt;
+    top: 10px;
+    cursor: pointer;
+}
+.footer{
+    background-color: #E9E9E9;
+    color: #797979;
+}
+.footer .footer_link{
+    font-weight: bold;
+    color: #797979;
+    text-decoration: none;
+}
+.footer hr{
+    padding: 1px;
+    padding-left: 30px;
+    height: 0;
+    background-color: #000;
+    color: #000;
+}
+
+.footer .end_row div{
+    float: right;
+    margin-right: 0;
+    padding-right: 0;
+    margin: 0;
+}
+.footer img{
+    /*float: right;*/
+}
+.footer .services{
+    float: right;
+}
+.footer .services img{
+    margin-left: 10px;
+    float: right;
+    max-height: 50px;
+}
+.footer .nav a{
+    padding-bottom: 3px;
+    padding-top: 10px;
+    font-size: 12pt;
+}
+.footer_line{
+    margin-top: 12px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #A5A5A5;
+}
+.footer .end_row .coprite{
+    margin-top: 18px;
+    padding-left: 40px;
+}
+.social-newtorks{
+    float: right;
+    line-height: 51px;
+}
+.social-newtorks img{
+    float: right;
+    margin-left: 10px;
+}
+.social-newtorks span{
+    display: inline-block;
+    float: right
+} 
+
+/***************************************************************************************************/
+.man {
+    margin: auto;
+}
+.man figure img{
+    border: 7px solid #FFF;
+    border-radius: 100%;
+    margin-top: 70px;
+    //margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 170px;
+    max-height: 170px;
+}
+.form-control{
+    
+}
+.fields-input-group{
+    color: #E1E1E1;
+    padding: 10px;
+    background-color: #E1E1E1;
+    margin-bottom: 10px;
+}
+.fields-input-group span{
+    border-radius: 0;
+    padding: 0;
+    background: #E1E1E1;
+    border: 0;
+}
+.fields-input{
+    border-radius: 0;
+    //border:none;
+    outline: none;
+    -webkit-appearance: none;
+    background: #E1E1E1;
+    font-size: 13pt;
+    border: none !important;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.075) inset;
+}
+.fields-input:active{
+    outline: none;
+}
+.fields-input:focus{
+    outline: none;
+}
+.fields-input-group input:focus{
+    outline: none;
+}
+.fields-input-group ._text{
+    color:#797979;
+    padding-left: 12px;
+font-size: 13pt;
+padding-top: 5px;
+    cursor: pointer;
+}
+.fields-input::-webkit-input-placeholder {color: #797979; font-size: 13pt;}
+.fields-input::-moz-placeholder          {color: #797979; font-size: 13pt;}
+.fields-input::-moz-placeholder           {color: #797979; font-size: 13pt;}
+.fields-input::-ms-input-placeholder      {color: #797979; font-size: 13pt;}
+.background{
+    background: url(../img/bg.jpg) no-repeat;
+    /*width: 100%;*/
+}
+.navbar-nav li{
+    display: inline-block;
+}
+.content {
+    margin-top: -20px;
+}
+.center{
+    magrin:auto;
+}
+@media handheld {
+ 
+}
+.check_role{
+    background: #FFF;
+    background-color: #FFF;
+    border: none;
+    cursor: pointer;
+}
+.form-center{
+    /*display: block;*/
+    //float: left;
+}
+.form-center1{
+    //margin-left: 0;
+    //margin-top: 0;
+}
+/***************************************************************************************************/
+.btn-sing-up{
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 4px 0px #666666;
+    -moz-box-shadow: 0px 4px 0px #666666;
+    box-shadow: 0px 4px 0px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    background: #3498db;
+    /*padding: 16px 102px 16px 102px;*/
+    width: 79%;
+    /*height: 80%;*/
+    padding-bottom: 16px;
+    padding-top: 16px;
+    border: none;
+    margin-top: 15px;
+    /*margin-left: 50%;*/
+    text-decoration: none;
+}
+.btn-sing-up:hover{
+    background: #38a6eb;
+    text-decoration: none;
+}
+.btn-sing-up:active{
+    border: none;
+    box-shadow: none;
+    //padding-top: 18px;
+   // padding-bottom: 18px;
+    //-webkit-box-shadow: 0px -2px 0px #666666;
+   // -moz-box-shadow: 0px -2px 0px #666666;
+   // box-shadow: 0px -2px 0px #666666;
+    //margin-top: 2px;
+}
+.submit{
+    text-align: center;
+}
+/********************************************************************************************************/
+.socail-singup{
+    color: #797979;
+font-size: 18pt;
+font-weight: bold;
+text-align: center;
+}
+
+.btn-facebook{
+    border: none;
+    -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 3px 1px #666666;
+  -moz-box-shadow: 0px 3px 1px #666666;
+  box-shadow: 0px 3px 1px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15pt;
+  background: #3B5998;
+  padding: 10px 35px 10px 13px;
+  text-decoration: none;
+  padding-top: 14px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.btn-facebook:hover{
+    background: #3B5998;
+  text-decoration: none;
+  color: #FFF;
+}
+
+.btn-google{
+    border: none;
+    -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 3px 1px #666666;
+  -moz-box-shadow: 0px 3px 1px #666666;
+  box-shadow: 0px 3px 1px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15pt;
+  background: #CF4033;
+  padding: 10px 46px 10px 13px;
+  text-decoration: none;
+  padding-top: 14px;
+    padding-bottom: 10px;
+}
+
+.btn-google:hover{
+    background: #CF4033;
+  text-decoration: none;
+    color: #FFF;
+}
+/******************************************************************************************/
+.centered{
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/**********************************************************************************************/
+.arrow{
+    cursor: pointer;
+}
+/*.select select{
+    border-radius: 0;
+    background: transparent;
+    height: 34px;
+    padding: 5px;
+    border: 0;
+    //font-size: 16px;
+    line-height: 1;
+    -webkit-appearance: none;
+    cursor: pointer;
+    //background-color: #E1E1E1;
+}
+.select{
+    //border: 1px solid #CCC;
+    overflow: hidden; 
+    height: 34px;
+    background: url(../img/arrow-down.png) no-repeat right #E1E1E1;
+    
+    //width: 240px;
+}*/
+/***********************************************************************************************/
+#birth-date{
+    display: none;
+}
+/***********************************************************************************************/
+/*************** SING UP *****************************************/
+.sing-up-title{
+    font-size: 32pt;
+    color: #5F5A5A;
+    font-weight: bold;
+    padding-top: 90px;
+    padding-bottom: 20px;
+}
+.btn-register{
+    max-width: 360px;
+}
+.btn-register:hover{
+    color: #FFF;
+}
+.remember-me{
+    text-align: left;
+    font-size: 16pt;
+    padding-left: 0px;
+    background-color: #FFF;
+    border:none;
+    cursor: pointer;
+    vertical-align: middle;
+}
+.forgot-pass{
+    text-align: right;
+    padding-right: 0;
+    background: #FFF;
+    border: none;
+}
+.forgot-pass a{
+    text-decoration: none;
+    color: #CF4033;
+    font-size: 16pt;
+}
+/******************************************************************/
+.nav-img{
+    /*max-width: 27px;*/
+    cursor: pointer;
+    margin-top: -10px;
+    margin-left: 10px;
+}

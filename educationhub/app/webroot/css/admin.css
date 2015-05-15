@@ -1,0 +1,104 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27.10.2014, 13:53:28
+    Author     : Mr White
+*/
+
+#user-list table{
+    
+}
+
+#user-list table tr{
+    
+}
+
+#user-list table tr td a{
+    font-size: 10pt;
+    font-weight: bold;
+    //width: 10px;
+}
+#user-list table tr td a:hover{
+    text-decoration: none;
+    //width: 10px;
+}
+
+#user-list table tr th{
+    color: blue;
+    font-weight: bold;
+    padding-right: 80px;
+}
+/******************************************************************/
+.news{
+    
+}
+.news span{
+    color: blue;
+    font-weight: bold;
+    font-family: 'Time New Roman', sans-serif;
+    //background: black;
+    cursor: pointer;
+}
+.news span:hover{
+    color: red;
+}
+.news .news-tab{
+    display: none;
+}
+/***********************************************************************/
+.news-tab article {
+  border-left: 3px solid #ccc;
+  padding-left: 10px
+}
+.news-tab article h3 {
+  font-size: 14px;
+  margin: 10px auto 5px auto;
+  color: #808080
+}
+.news-tab article h3 span{
+    color: black;
+}
+.news-tab time {
+  padding: 5px;
+  float: right;
+  margin: -25px -25px auto auto;
+  background-color: #B7B7B7;
+  color: #fff;
+  font-size: 12px;
+  border-radius: 10px 0px 0px 10px
+}
+.news-tab p{
+    text-align: justify;
+    font-size: 12px;
+}
+/*****************************************************/
+.setings-page{
+    
+}
+.setings-page p{
+    margin: 0;
+    margin-bottom: 4px;
+    font-weight: bold;
+    font-size: 13pt;
+}
+.setings-page input{
+    font-size: 14pt;
+    margin-bottom: 3px;
+    width: 374px;
+    margin-left: 30px;
+}
+.setings-page textarea{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+}
+
+.link_delete_image{
+  position: absolute;
+  left: 15px;
+  font-size: 21pt;
+}

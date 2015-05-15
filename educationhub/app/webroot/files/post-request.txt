@@ -1,0 +1,32 @@
+Array
+(
+)
+ -------- 
+Array
+(
+    [plugin] => 
+    [controller] => bee
+    [action] => success
+    [named] => Array
+        (
+        )
+
+    [pass] => Array
+        (
+        )
+
+)
+ -------- 
+Array
+(
+    [customer_id] => 2slhRVReP8VVBWMTF3
+    [plan_id] => trial3
+    [subscription_id] => 2slhRVReP8VVBWMTF3
+    [subscription_status] => active
+    [current_term_start] => 31-Mar-2015
+    [current_term_end] => 30-Apr-2015
+    [remaining_billing_cycles] => 
+    [started_at] => 31-Mar-2015
+    [trial_start] => 
+    [trial_end] => 
+)
